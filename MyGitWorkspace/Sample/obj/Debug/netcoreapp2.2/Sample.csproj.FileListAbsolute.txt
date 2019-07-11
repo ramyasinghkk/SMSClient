@@ -1,0 +1,8 @@
+D:\GitWorkspace\MyGitWorkspace\Sample\bin\Debug\netcoreapp2.2\Sample.deps.json
+D:\GitWorkspace\MyGitWorkspace\Sample\bin\Debug\netcoreapp2.2\Sample.dll
+D:\GitWorkspace\MyGitWorkspace\Sample\bin\Debug\netcoreapp2.2\Sample.pdb
+D:\GitWorkspace\MyGitWorkspace\Sample\obj\Debug\netcoreapp2.2\Sample.csproj.CoreCompileInputs.cache
+D:\GitWorkspace\MyGitWorkspace\Sample\obj\Debug\netcoreapp2.2\Sample.AssemblyInfoInputs.cache
+D:\GitWorkspace\MyGitWorkspace\Sample\obj\Debug\netcoreapp2.2\Sample.AssemblyInfo.cs
+D:\GitWorkspace\MyGitWorkspace\Sample\obj\Debug\netcoreapp2.2\Sample.dll
+D:\GitWorkspace\MyGitWorkspace\Sample\obj\Debug\netcoreapp2.2\Sample.pdb
